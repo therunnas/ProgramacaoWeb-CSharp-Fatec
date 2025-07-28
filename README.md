@@ -1,2 +1,2 @@
-# ProgramacaoWeb-CSharp-Fatec
-Repositório para guardar os códigos desenvolvidos nas aulas de Programação Web (C#) na FATEC de Taquaritinga. Aplicando conceitos de Orientação a Objetos, alguns princípios SOLID etc.
+#WebProgramming-CSharp-Fatec
+Repository for storing code developed in Web Programming (C#) classes at FATEC Taquaritinga. It applies Object-Oriented concepts, some SOLID principles, etc.

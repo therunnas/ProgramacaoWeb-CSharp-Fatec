@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramacaoWeb-CSharp-Fatec", "ProgramacaoWeb-CSharp-Fatec.csproj", "{32AFD867-5621-B5D0-A86F-01A5BA95361E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32AFD867-5621-B5D0-A86F-01A5BA95361E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32AFD867-5621-B5D0-A86F-01A5BA95361E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32AFD867-5621-B5D0-A86F-01A5BA95361E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32AFD867-5621-B5D0-A86F-01A5BA95361E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D79690EE-D22D-4EC3-A81C-B630D3C9ADD6}
+	EndGlobalSection
+EndGlobal
